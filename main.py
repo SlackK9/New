@@ -67,6 +67,6 @@ bot = Bot(command_prefix=commands.when_mentioned_or("$"), intents=intents)
 
 
 
-bot.run(token="MTMyNTk3OTc2ODM2MTA2MjQxMA.G22Eid.HM9U0AAfesVG01mcEeC4zE7o3xKbaroANLFfps")
+bot.run(token="MTMyNTk3OTc2ODM2MTA2MjQxMA.G8Zawg.IeBUlISaKwyGJxs5DXXJDxx11NGMVIneB_D3OM")
         
 
